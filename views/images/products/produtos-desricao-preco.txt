@@ -1,0 +1,45 @@
+Product 1
+> Nome: Ração Golden Special Sabor Frango e Carne para Cães Adultos
+> Descricao: Desde 1997 a marca PremieR é referência como especialista em nutrição de animais de estimação graças aos seus alimentos Super Premium e por inovar frequentemente seus produtos, nunca deixando de lado a excelência. Cumpre sua missão de aproximar mais os tutores dos seus pets criando linhas que atendem cada tipo de condição e hábito dos animais. reconhecida no mercado por seu comprometimento com cada etapa do processo de formulação de refeições deliciosas e muito nutritivas para cada cão. Você ficará muito mais tranquilo oferecendo a ração PremieR Golden para o seu melhor amigo.
+> Valor: R$ 104,90
+
+Product 2
+> Nome: Whiskas Bola de Pelo para Gatos Adultos - 40g
+> Descrição: A Whiskas é uma empresa que atua no mercado há mais de 50 anos, e desde o seu início tenta compreender ao máximo as necessidades e a personalidade dos felinos. Tudo isso que para oferecer tudo o que eles precisam para uma vida mais saudável e tranquila. A marca se preocupa com todos os detalhes da vida felina e entende bastante de suas características, o que facilita muito no desenvolvimento de seus produtos. Como resultado, a empresa apresenta aos consumidores alimentos de qualidade, repleto de nutrientes, vitaminas e sabores inigualáveis.      
+> Valor: $ 5,49
+
+Product 3
+> Nome: Criadeira Mônaco para Pássaros Castelo com Bandeja
+> Descrição: Fundada em 1959, a Mônaco Gaiolas é uma das principais referências na produção deste acessório no Brasil. Com itens especializados para pássaros e animais de pequeno, médio e grande porte, a marca se destaca pela alta qualidade em todos os seus produtos. As gaiolas, carro-chefe da empresa, estão disponíveis em diversos modelos para que os cuidadores de passarinhos escolham as que mais combinem com os seus voadores. Confira as melhores opções aqui na Petz.
+> Valor: R$ 179,99
+
+Product 4
+> Nome: Bola de Exercício Chalesco para Hamster Transparente
+> Descrição: Se você pensa que só os cães e gatos têm um lugar especial na Chalesco, está muito enganado! A empresa sempre pensou em todo o universo pet e traz produtos para todos os bichinhos de estimação. A bola de hamster é só um dos exemplos do carinho e consideração que tem por todos os animais! Tudo o que a empresa traz para você tem como objetivo deixar a vida do seu amigo melhor e facilitar a sua vida com o melhor custo-benefício do mercado! Não é a toa que a marca figura entre as melhores em produtos para pets do Brasil e do mundo, já que também trabalha com produtos importados, como a bola para hamster Chalesco.
+> Valor: R$ 38,61
+
+Product 5
+> Nome: Aquário Boyu Retangular ZJ 401 40 Litros
+> Descrição: Todo bichinho de estimação precisa de um lar confortável e seguro. Com os peixinhos, não é diferente! O aquário Boyu é a morada ideal para o seu pet, pois é bastante espaçoso e produzido em vidro 4mm, um excelente material para esse tipo de acessório. Além disso, o aquário possui o sistema de filtragem localizado na tampa, deixando muito espaço para decorá-lo com troncos e plantas. Tudo isso com a qualidade que só a Boyu possui! A marca que sempre pensou no melhor para os nossos amigos, já virou referência quando o assunto é os melhores aquários.
+> Valor: R$ 1.015,99
+
+Product 6
+> Nome: Terrário Aquaterrário para Tartaruga Com Cachoeira
+> Descrição: Presenteie sua tartaruga com muito espaço e qualidade usando o Terrário Aquaterrário para Tartaruga Com Cachoeira. Este terrário apresenta uma cachoeira que vai alegrar os dias de seus répteir com muita diversão.
+> Valor: R$ 1.296,99
+
+Product 7
+> Nome: Substrato Para Aquários Mbreda Amazônia
+> Descrição: A MBreda buscou o que há de melhor em toda a natureza para produzir o substrato Amazônia, um produto natural para as plantas do seu aquário. Composto com minerais especiais e uma fórmula específica, ele atenderá todas as suas necessidades e ainda fornecerá todas as vitaminas para o seu aquário plantado. Além disso, para facilitar ainda mais a sua vida, esse substrato para aquário já vem pronto para uso e não precisa ser lavado. Mais praticidade e qualidade para as suas plantinhas só poderia vir da MBreda, não é? 
+> Valor: R$ 119,99
+
+Product 8
+> Nome: Brinquedo Chalesco Para Cães Bola Multicor
+> Descrição: Você sabia que cães que permanecem longos períodos sem seus donos, sem uma atividade física, sem estímulos, podem se tornar animais deprimidos? O brinquedo para cachorro em borracha Chalesco Para Cães Bola Multicor vai acabar com os dias entediantes do seu cão.
+> Valor: R$ 18,99
+
+
+Product 9
+> Nome: Escova Dental Western para Cães e Gatos
+> Descrição: A Western tem o objetivo de oferecer o que há de melhor para os nossos bichinhos. Por isso, já se tornou uma marca conhecida mundialmente, devido a qualidade dos seus produtos e variedade de brinquedos e acessórios de higiene. 
+> Valor: R$ 10,99
