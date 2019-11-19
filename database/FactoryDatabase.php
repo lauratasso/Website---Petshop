@@ -2,10 +2,10 @@
 
 class FactoryDatabase {
     static function get(){
-        $server     = "fdb24.awardspace.net";
-        $user       = "3025470_databasepi";
-        $password   = "databasePI1234";
-        $database   = "3025470_databasepi";
+        $server     = "SERVER_DATABASE";  //insert the data of database created
+        $user       = "USER_DATABASE";
+        $password   = "PASSWORD_USER";
+        $database   = "NAME_DATABASE";
         $connection = new mysqli($server, $user, $password, $database);
         return $connection;
     }
